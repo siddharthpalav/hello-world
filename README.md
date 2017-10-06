@@ -1,3 +1,3 @@
 # hello-world
-Just another repoisitory
+Just another repository
 A quick brown fox jumps over a lazy dog.
